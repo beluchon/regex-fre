@@ -1,0 +1,1 @@
+exit condition   count(resolution(cached(language(regexMatched(negate(merge(encode(totalStreams, 'AV1'), visualTag(visualTag(totalStreams, 'HDR'), 'DV')), totalStreams), 'fr', 'groupe'), 'French')), '1080p', '720p', '576p', '480p', '360p', '240p', '144p')) >= 1 and 'TorBox' in queriedAddons

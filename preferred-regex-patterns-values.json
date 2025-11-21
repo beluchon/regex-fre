@@ -1,5 +1,9 @@
 [
   {
+    "name": "vostfr",
+    "pattern": "/(^|[.\\-\\/[\\]() _]+)(SUBFRENCH|VOSTFR)([.\\-\\/[\\]() _]+|$)/i"
+  },
+  {
     "name": "BTM",
     "pattern": "^.*[.\\-\\[\\]\\(\\) ](BEN[\\s._-]*THE[\\s._-]*MEN|BTM|AOC|HDM|ETRG|DDR|AndreMor)(?:[.\\-\\[\\]\\(\\) ].*)?$"
   },

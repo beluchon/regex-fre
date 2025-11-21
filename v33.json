@@ -5,7 +5,7 @@
   },
   {
     "name": "BTM",
-    "pattern": "^.*[.\\-\\[\\]\\(\\) ](BEN[\\s._-]*THE[\\s._-]*MEN|BTM|AOC|HDM|ETRG|DDR|AndreMor)(?:[.\\-\\[\\]\\(\\) ].*)?$"
+    "pattern": "(?<=^|[\\s._-])(?:BEN[\\s._-]*THE[\\s._-]*MEN|BTM|AOC|HDM|ETRG|DDR|AndreMor)(?=$|[\\s._-])"
   },
   {
     "name": "groupe",

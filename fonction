@@ -3,7 +3,7 @@
 (?<=[.\\-\\[\\]\\(\\) _]|^)(?:LISTE_ICI)(?=[.\\-\\[\\]\\(\\) _]|$)
 
 
-Agis en tant qu'expert en expressions régulières. Je vais te donner une liste de noms de groupes de release.
+Agis en tant qu'expert en expressions régulières/regex. Je vais te donner une liste de noms de groupes de release environ 250.
 
 Ta mission :
 
@@ -27,5 +27,10 @@ fusionne les doublons
 ne pas utiliser insensitive case
 
 La regex doit être la plus rapide possible.
+
+La regex doit tenir sur une seule ligne.
+
+Ne réponds qu'avec la regex finale dans un bloc de code.
+
 
 Voici ma liste

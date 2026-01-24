@@ -22,6 +22,8 @@ Utilise uniquement des groupes de non-capture (?:...).
 
 fusionne les doublons
 
+ne pas utiliser insensitive case
+
 La regex doit être la plus rapide possible.
 
 Voici ma liste

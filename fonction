@@ -20,7 +20,7 @@ Utilise uniquement des groupes de non-capture (?:...).
 
 Échappe correctement les caractères spéciaux (comme les points et les tirets dans les noms).
 
-ne supprime pas les doublons
+fusionne les doublons
 
 La regex doit être la plus rapide possible.
 

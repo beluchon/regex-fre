@@ -1,3 +1,25 @@
 ^.*[.\-\[\]\(\) ](LISTE_DES_GROUPES)(?:[.\-\[\]\(\) ].*)?$
 
+(?<=[.\\-\\[\\]\\(\\) _]|^)(?:LISTE_ICI)(?=[.\\-\\[\\]\\(\\) _]|$)
 
+
+Agis en tant qu'expert en expressions régulières. Je vais te donner une liste de noms de groupes de release.
+
+Ta mission :
+
+Classer les noms par ordre alphabétique.
+
+Factoriser la liste sous forme de "Trie" (ex: transformer ALFA|ALCOOL en AL(?:FA|COOL)) pour optimiser la vitesse de recherche du moteur de regex.
+
+Intégrer cette liste factorisée dans la structure suivante :
+(?<=[.\\-\\[\\]\\(\\) _]|^)(?:LISTE_ICI)(?=[.\\-\\[\\]\\(\\) _]|$)
+
+Contraintes
+
+Utilise uniquement des groupes de non-capture (?:...).
+
+Échappe correctement les caractères spéciaux (comme les points dans les noms).
+
+La regex doit être la plus rapide possible.
+
+Voici ma liste

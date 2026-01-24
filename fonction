@@ -11,7 +11,7 @@ JavaScript moderne
 
 Longest Match First
 
-Nettoyage : Fusionne les doublons et trie par ordre alphabétique..
+Nettoyage : Fusionne les doublons et Longest Match First..
 
 Factoriser la liste sous forme de "Trie" (ex: transformer ALFA|ALCOOL en AL(?:FA|COOL)) pour optimiser la vitesse de recherche du moteur de regex.
 

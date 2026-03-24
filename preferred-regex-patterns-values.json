@@ -13,7 +13,7 @@
   },
   {
     "name": "iso",
-    "pattern": "^.*[.\\-\\[\\]\\(\\) ](iso|m2ts|A&C|BluRay\\.VC-1|Full\\.Bluray|fullbluray|BD50|BD25|vob|dvdr|dvd-r|dvd5|dvd9|D4|D1|D3|D2|D5|COMPLETE\\.UHD\\.BLURAY|COMPLETE\\.BLURAY)(?:[.\\-\\[\\]\\(\\) ].*)?$"
+    "pattern": "^.*[.\\-\\[\\]\\(\\) ](iso|ISO|m2ts|A&C|BluRay\\.VC-1|Full\\.Bluray|fullbluray|BD50|BD25|vob|dvdr|dvd-r|dvd5|dvd9|D4|D1|D3|D2|D5|COMPLETE\\.UHD\\.BLURAY|COMPLETE\\.BLURAY)(?:[.\\-\\[\\]\\(\\) ].*)?$"
   },
   {
     "name": "groupe1",
